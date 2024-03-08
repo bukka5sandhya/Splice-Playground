@@ -1,0 +1,36 @@
+.playground-heading{
+    font-family:'Roboto';
+    font-size:30px;
+    font-weight:bold;
+    color: #2d3a35;
+}
+.input-label{
+    font-family:'Roboto';
+    font-size:20px;
+    font-weight:700;
+    color: #7b8794;
+    text-align: center;
+}
+.user-input{
+    text-align:center;
+    border-radius:4px;
+    border-color:#cbd2d9;
+    border-width:2px;
+    border-style:solid;
+    height:50%;
+    width:80%;
+}
+.updated-heading{
+    font-family:'Roboto';
+    font-size:25px;
+    font-weight:bold;
+
+}
+.updated-array-container{
+    background-color: #f3f3f3;
+    padding:20px;
+}
+.updated-array{
+    font-family:"Bree Serif";
+    font-size:16px;
+}
