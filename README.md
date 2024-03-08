@@ -1,0 +1,43 @@
+In this assignment, let's build a Splice Playground by applying the concepts we learned till now.
+
+Refer to the below image.
+
+![image](https://github.com/bukka5sandhya/Splice-Playground/assets/133884532/0254f2aa-5806-4634-95be-ae74604a908d)
+
+https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/dynamic-webapps/splice-playground-v1.gif
+
+Instructions:
+
+Add the ids startIndexInput, deleteCountInput, and itemToAddInput to the HTML input elements correspondingly
+
+Add an id spliceBtn to the HTML button element
+
+Add an id updatedArray to the HTML span element with the class name updatedArray
+
+By following the above instructions, achieve the given functionality.
+
+Stringify the array given in the JS prefilled code using the JSON.stringify method
+
+Fill the text content of the HTML span element with the id updatedArray with the stringified array
+
+When spliceBtn is clicked,
+
+If the value of the startIndexInput is empty, show an alert message to enter the start index
+
+If the value of the startIndexInput is not empty, update the array using splice() method by passing the startIndexInput, deleteCountInput and itemToAddInput values
+
+Stringify the updated array and update the text content of the HTML span element with the id updatedArray
+
+Note
+
+Write the code without deleting the prefilled code.
+
+You can use the JSON JSON.stringify method to convert the array into a string.
+
+If the value of the deleteCountInput is empty, assign the delete count to 0.
+
+Concepts Review
+
+Want to quickly review some of the concepts you’ve been learning?
+
+Take a look at the Cheat Sheets.
